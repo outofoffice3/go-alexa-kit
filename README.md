@@ -1,7 +1,12 @@
-# go-alex-kit
+# go-alexa-kit (The Official Unofficial GO SDK for Alexa)
+
+
+<div align="center">
+ <img src="./graphics/alexa-go.png" alt="walk" width="250"/>
+</div>
 
 ## Introduction
-Go-Alexa-Kit is an open-source SDK designed for building Alexa skills in Go. It facilitates the interaction with the Alexa Skills Kit, enabling Go developers to craft voice-driven applications with ease.
+`go-alexa-kit` is an open-source SDK designed for building Alexa skills in Go. It facilitates the interaction with the Alexa Skills Kit, enabling Go developers to craft voice-driven applications with ease.
 
 ## Features
 - **Intent Handling**: Streamline the process of managing user intents.
